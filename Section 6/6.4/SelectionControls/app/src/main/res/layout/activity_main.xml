@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+<RadioGroup
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/radioGroup">
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton1"
+        android:text="Radio Button 1"
+        android:checked="true"
+        android:theme="@style/RadioButtonTheme"/>
+ <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton2"
+        android:text="Radio Button 2"
+        android:checked="true"
+        android:theme="@style/RadioButtonTheme"/>
+</RadioGroup>
+<CheckBox
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/checkBox"
+    android:text="check box"
+    android:checked="true"
+    android:theme="@style/CheckBoxTheme"/>
+<android.support.v7.widget.SwitchCompat
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/main_switchC"
+    android:text="Switch Control On/Off"
+    android:checked="true"
+    app:switchPadding="8sp"
+    android:theme="@style/SwitchCompatTheme"/>
+</LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

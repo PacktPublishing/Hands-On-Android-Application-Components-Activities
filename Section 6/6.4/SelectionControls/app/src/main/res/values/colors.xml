@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorSwitchCompat">#D74CCE</color>
+    <color name="colorCheckBox">#D54363</color>
+    <color name="colorControlNormal">#8F63D6</color>
+    <color name="colorRadioButton">#69B0D5</color>
+    <color name="colorRadioButtonGroup">#0D71A4</color>
+</resources>

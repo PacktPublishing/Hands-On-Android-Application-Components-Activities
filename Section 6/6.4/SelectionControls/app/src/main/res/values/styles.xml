@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="SwitchCompatTheme">
+        <item name="colorAccent">@color/colorSwitchCompat</item>
+    </style>
+    <style name="RadioButtonTheme">
+        <item name="colorAccent">@color/colorRadioButton</item>
+        <item name="colorControlNormal">@color/colorControlNormal</item>
+    </style>
+    <style name="CheckBoxTheme">
+        <item name="colorAccent">@color/colorCheckBox</item>
+        <item name="colorControlNormal">@color/colorControlNormal</item>
+    </style>
+</resources>
