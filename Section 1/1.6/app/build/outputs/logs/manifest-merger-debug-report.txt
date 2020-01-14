@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\design-28.0.0.aar\02a6cf746b9a1f13e74c7a080a50ec6a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a432c5e5be0220a903843c9cbe4aea08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dd5b269e4a9a6c1c54c90dc4959b4fc4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0964fd41cc604481a365b3ffcb81fbc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5ef8d13cb8ef850c9237fc3157fe996d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4b9f8935333b6261a89fe70bf1ecb02e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f2569cff8cd0cfec643de5df865ae1c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5426a2187daeda02e18187010aa98eab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\transition-28.0.0.aar\572ebe0c34dd238c792235ed1ee4a6ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\loader-28.0.0.aar\4ec1b2f67ca2ca3ab6e469ba81a12bcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b4c71789ddf2111fecbbc2ad8ff45669\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3677bc1071a23a3a28014376d52bfa65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\89f5ca4b69d8ec98e71bf5cf3b115783\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d4a2fb9ec14415886e33374aa67ef7d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad3e334af2030b615fb5f0a705fef9eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a3bd7fe01f63e270ddb066198a5ea3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bf477aaa50193899d10b9ecd78b0a99b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\77facbd4b53cdb30c002aa1bc60481e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\01d80586f7a88f3fe916931b238cc3ec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3d2b734593195907ff44fd8f7f164f45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9236230a8f5c2139b1bb13f42f426612\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a6ad08cc40b07f5b286540e7a2855f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\35233e044d544b9e0fef5a28c6f7a18c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a92e67b0ba3881c4f0798a55d689d423\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\print-28.0.0.aar\b6b0e3ebc98cf36f68c3dd01e5635716\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a2c5a7ff88b5c41b4a8f393a703b3127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d6909b904371a2c27a90d8eee8b0bc18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\44176590a29a8e928eb35f38f643d889\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edb4112d70feba576f758521ac5dd16d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfa97552607bead521d95c99ee879d86\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2f80f670f1584336adaf74e7b3fdb088\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:3:11-53
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:design:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\design-28.0.0.aar\02a6cf746b9a1f13e74c7a080a50ec6a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\design-28.0.0.aar\02a6cf746b9a1f13e74c7a080a50ec6a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dd5b269e4a9a6c1c54c90dc4959b4fc4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dd5b269e4a9a6c1c54c90dc4959b4fc4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\01d80586f7a88f3fe916931b238cc3ec\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\01d80586f7a88f3fe916931b238cc3ec\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9236230a8f5c2139b1bb13f42f426612\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9236230a8f5c2139b1bb13f42f426612\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\01d80586f7a88f3fe916931b238cc3ec\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:11:13-44
+activity#vafa.mona.com.myfirstapplication.Main3Activity
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:12:19-48
+activity#vafa.mona.com.myfirstapplication.Main2Activity
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:15:9-19:20
+	android:label
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:17:17-61
+	android:theme
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:18:17-60
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:16:17-46
+activity#vafa.mona.com.myfirstapplication.MainActivity
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:21:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:22:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\design-28.0.0.aar\02a6cf746b9a1f13e74c7a080a50ec6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\design-28.0.0.aar\02a6cf746b9a1f13e74c7a080a50ec6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a432c5e5be0220a903843c9cbe4aea08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a432c5e5be0220a903843c9cbe4aea08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dd5b269e4a9a6c1c54c90dc4959b4fc4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dd5b269e4a9a6c1c54c90dc4959b4fc4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0964fd41cc604481a365b3ffcb81fbc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0964fd41cc604481a365b3ffcb81fbc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5ef8d13cb8ef850c9237fc3157fe996d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5ef8d13cb8ef850c9237fc3157fe996d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4b9f8935333b6261a89fe70bf1ecb02e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4b9f8935333b6261a89fe70bf1ecb02e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f2569cff8cd0cfec643de5df865ae1c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f2569cff8cd0cfec643de5df865ae1c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5426a2187daeda02e18187010aa98eab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5426a2187daeda02e18187010aa98eab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\transition-28.0.0.aar\572ebe0c34dd238c792235ed1ee4a6ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\transition-28.0.0.aar\572ebe0c34dd238c792235ed1ee4a6ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\loader-28.0.0.aar\4ec1b2f67ca2ca3ab6e469ba81a12bcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\loader-28.0.0.aar\4ec1b2f67ca2ca3ab6e469ba81a12bcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b4c71789ddf2111fecbbc2ad8ff45669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b4c71789ddf2111fecbbc2ad8ff45669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3677bc1071a23a3a28014376d52bfa65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3677bc1071a23a3a28014376d52bfa65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\89f5ca4b69d8ec98e71bf5cf3b115783\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\89f5ca4b69d8ec98e71bf5cf3b115783\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d4a2fb9ec14415886e33374aa67ef7d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d4a2fb9ec14415886e33374aa67ef7d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad3e334af2030b615fb5f0a705fef9eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad3e334af2030b615fb5f0a705fef9eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a3bd7fe01f63e270ddb066198a5ea3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a3bd7fe01f63e270ddb066198a5ea3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bf477aaa50193899d10b9ecd78b0a99b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bf477aaa50193899d10b9ecd78b0a99b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\77facbd4b53cdb30c002aa1bc60481e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\77facbd4b53cdb30c002aa1bc60481e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\01d80586f7a88f3fe916931b238cc3ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\01d80586f7a88f3fe916931b238cc3ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3d2b734593195907ff44fd8f7f164f45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3d2b734593195907ff44fd8f7f164f45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9236230a8f5c2139b1bb13f42f426612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9236230a8f5c2139b1bb13f42f426612\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a6ad08cc40b07f5b286540e7a2855f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8a6ad08cc40b07f5b286540e7a2855f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\35233e044d544b9e0fef5a28c6f7a18c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\35233e044d544b9e0fef5a28c6f7a18c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a92e67b0ba3881c4f0798a55d689d423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a92e67b0ba3881c4f0798a55d689d423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\print-28.0.0.aar\b6b0e3ebc98cf36f68c3dd01e5635716\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\print-28.0.0.aar\b6b0e3ebc98cf36f68c3dd01e5635716\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a2c5a7ff88b5c41b4a8f393a703b3127\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a2c5a7ff88b5c41b4a8f393a703b3127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d6909b904371a2c27a90d8eee8b0bc18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d6909b904371a2c27a90d8eee8b0bc18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\44176590a29a8e928eb35f38f643d889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\44176590a29a8e928eb35f38f643d889\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edb4112d70feba576f758521ac5dd16d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edb4112d70feba576f758521ac5dd16d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfa97552607bead521d95c99ee879d86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfa97552607bead521d95c99ee879d86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2f80f670f1584336adaf74e7b3fdb088\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Program Files\Gradle\4.9\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2f80f670f1584336adaf74e7b3fdb088\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mona\Desktop\packt\Activity\Codes\Section1\1.6\app\src\main\AndroidManifest.xml

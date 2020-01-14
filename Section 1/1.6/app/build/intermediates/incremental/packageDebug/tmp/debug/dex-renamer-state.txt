@@ -1,0 +1,4 @@
+#Mon May 06 00:02:15 IRDT 2019
+base.0=C\:\\Users\\Mona\\Desktop\\packt\\Activity\\Codes\\Section1\\1.6\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
