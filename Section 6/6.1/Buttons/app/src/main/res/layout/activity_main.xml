@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <android.support.design.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_textButton"
+        style="@style/Widget.MaterialComponents.Button"
+        android:text="TExtButton"
+        android:layout_margin="8sp"/>
+    <android.support.design.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_Icon"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        android:text="Btn Icon"
+        android:layout_margin="8sp"
+        android:backgroundTint="@color/colorPrimary"
+        app:iconTint="@color/colorAccent"
+        app:icon="@drawable/ic_android_black_24dp"
+        app:rippleColor="@color/colorAccent"
+        app:cornerRadius="10sp"/>
+    <android.support.design.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_textButtonIcn"
+        style="@style/Widget.MaterialComponents.Button.TextButton.Icon"
+        android:text="TExtButton Icn"
+        android:layout_margin="8sp"
+        app:icon="@drawable/ic_android_black_24dp"/>
+
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>
