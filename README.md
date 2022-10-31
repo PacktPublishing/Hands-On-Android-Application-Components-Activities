@@ -88,7 +88,3 @@ You have to download java SDK and Android studio IDE (with SDK bundle) which is 
 * [Hands-On Android Material Design [Video]](https://www.packtpub.com/application-development/hands-android-material-design-video?utm_source=github&utm_medium=repository&utm_campaign=9781789805581)
 * [Hands-On Android Application Components: Services and Fragments [Video]](https://www.packtpub.com/application-development/hands-android-application-components-services-and-fragments-video)
 * [Firebase and Android Pie [Video]](https://www.packtpub.com/application-development/firebase-and-android-pie-video?utm_source=github&utm_medium=repository&utm_campaign=9781789532791)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789619393">https://packt.link/free-ebook/9781789619393 </a> </p>
